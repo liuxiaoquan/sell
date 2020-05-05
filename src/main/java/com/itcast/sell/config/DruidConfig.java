@@ -18,6 +18,7 @@ import java.util.Map;
 /**
  * @author LXQ
  * @create 2018-12-18 11:18
+ * @version 1.0
  */
 @Controller
 public class DruidConfig {
